@@ -2,7 +2,7 @@
   "name": "quick-totp",
   "displayName": "QuickTOTP",
   "description": "Quick TOTP code generator",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "engines": {
     "vscode": "^1.79.0"
   },
@@ -52,6 +52,9 @@
       }
     ]
   },
+  "extensionKind": [
+    "ui"
+  ],
   "publisher": "alaric",
   "repository": {
     "type": "git",
